@@ -64,3 +64,7 @@ Scalable gym management solution.
 🌐 Portfolio: https://zubeda-yasmeen-portfolio.vercel.app/
 
 💻 GitHub: https://github.com/zubaida-yasmeen
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubaida-yasmeen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubaida-yasmeen&layout=compact&theme=radical)
