@@ -65,9 +65,3 @@ Scalable gym management solution.
 
 💻 GitHub: https://github.com/zubaida-yasmeen
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubaida-yasmeen&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubaida-yasmeen&layout=compact&theme=tokyonight)
-
